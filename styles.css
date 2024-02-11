@@ -12,3 +12,9 @@ body {
     height: 100vh;
     overflow: hidden;
 }
+
+.fish {
+    position: absolute;
+    width: 7%;
+    background-size: cover;
+}
